@@ -1,0 +1,11 @@
+{
+  "name": "mattferris/shorthash",
+  "version": "0.1",
+  "autoload": {
+    {
+      "psr-4": {
+        "MattFerris\\ShortHash\\": "src/"
+      }
+    }
+  }
+}
